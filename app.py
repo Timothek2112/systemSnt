@@ -1,8 +1,6 @@
 from flask import Flask
 from flask import request
-import mysql.connector
-from mysql.connector import Error
-import pymysql
+
 
 
 
